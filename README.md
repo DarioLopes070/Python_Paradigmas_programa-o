@@ -1,1 +1,1 @@
-# Python_Paradigmas_programa-o
+# Python_Paradigmas_programacao
